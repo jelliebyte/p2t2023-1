@@ -1,5 +1,2 @@
 { pkgs }: {
-    deps = [
-        pkgs.cowsay
-    ];
 }
